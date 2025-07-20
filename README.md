@@ -32,7 +32,8 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento web, com foco em tec
 ---
 
 ### 📎 Links Rápidos
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-guitslaff-de-oliveira-0555a51b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-guitslaff-de-oliveira-0555a51b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 <p align="center">
 
