@@ -34,8 +34,9 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento web, com foco em tec
 ### 📎 Links Rápidos
 
 <p align="center">
-  <a class="linkedin-btn" href="https://www.linkedin.com/in/seu-usuario" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+ <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
   <a href="https://instagram.com/SEU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
