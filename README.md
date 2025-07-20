@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou [Seu Nome]</h1>
 
 <p align="center">
-  <strong>Desenvolvedor FullStack</strong><br>
+  <strong>Desenvolvedor Back-End</strong><br>
   Maringá-PR • 24 anos
 </p>
 
@@ -9,10 +9,11 @@
 
 ### ✨ Sobre mim
 
-Me chamo [Seu Nome], tenho 24 anos e sou natural de Maringá-PR. Concluí o curso técnico em **Desenvolvimento de Sistemas** pela **Uninter**, e atualmente curso **Análise e Desenvolvimento de Sistemas** na **Unicesumar**.
+Me chamo Carlos Eduardo Guitslaff, tenho 24 anos e atuo em Maringá-PR. Sou formado em Desenvolvimento de Sistemas pelo curso técnico da Uninter e atualmente curso Análise e Desenvolvimento de Sistemas na Unicesumar.
 
-Sou apaixonado por tecnologia, inovação e desenvolvimento web. Atualmente trabalho com foco nas tecnologias modernas do ecossistema JavaScript.
+Trabalho como Analista de TI, atuando com suporte técnico, redes e infraestrutura. Essa experiência tem ampliado minha visão prática sobre o funcionamento dos ambientes corporativos de tecnologia.
 
+Sou apaixonado por tecnologia, inovação e desenvolvimento web, com foco em tecnologias modernas do ecossistema JavaScript. Estou sempre em busca de aprimorar minhas habilidades e desenvolver soluções eficientes e atualizadas.
 ---
 
 ### 🧰 Tecnologias que utilizo
