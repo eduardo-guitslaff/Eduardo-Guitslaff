@@ -32,24 +32,12 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento web, com foco em tec
 ---
 
 ### 📎 Links Rápidos
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
 
-<p align="center">
-<p> </a>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-guitslaff-de-oliveira-0555a51b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) </p>
-
-
-
-
-  <a href="[https://instagram.com/SEU_USUARIO](https://www.youtube.com/watch?v=cRoBt6AZgjc)" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SEU_USUARIO?tab=followers](https://www.instagram.com/eduardo_guitslaff?igsh=dnR4aDNicTRvMmd2)" target="_blank">
-    <img src="https://img.shields.io/badge/Seguidores no GitHub-2.5k-blue?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://SEUPORTIFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
