@@ -34,7 +34,7 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento web, com foco em tec
 ### 📎 Links Rápidos
 
 <p align="center">
- <a href="[[https://www.linkedin.com/in/SEU_USUARIO" target="_blank](https://www.linkedin.com/in/carlos-eduardo-guitslaff-de-oliveira-0555a51b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/carlos-eduardo-guitslaff-de-oliveira-0555a51b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+<a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
   <a href="https://instagram.com/SEU_USUARIO" target="_blank">
