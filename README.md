@@ -35,7 +35,7 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento web, com foco em tec
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://instagram.com/sujeitoprogramador](https://www.linkedin.com/in/carlos-eduardo-guitslaff-de-oliveira-0555a51b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/carlos-eduardo-guitslaff-de-oliveira-0555a51b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
