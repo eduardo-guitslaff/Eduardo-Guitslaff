@@ -41,7 +41,7 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento web, com foco em tec
   <a href="[https://instagram.com/SEU_USUARIO](https://www.youtube.com/watch?v=cRoBt6AZgjc)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO?tab=followers" target="_blank">
+  <a href="https://github.com/SEU_USUARIO?tab=followers](https://www.instagram.com/eduardo_guitslaff?igsh=dnR4aDNicTRvMmd2)" target="_blank">
     <img src="https://img.shields.io/badge/Seguidores no GitHub-2.5k-blue?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://SEUPORTIFOLIO.com" target="_blank">
